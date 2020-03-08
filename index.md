@@ -1,11 +1,11 @@
 ### [dienstboerse.anaesthesie.online](https://dienstboerse.anaesthesie.online)
 
-> Tauschbörse für Klinikdienste aller Dienstgruppen.
+> Tauschbörse für Klinikdienste aller Dienstgruppen
 
 ### [kinder.anaesthesie.online](https://kinder.anaesthesie.online)
 
-> Seiten der Abteilung für Kinderanästhesie.
+> Gießener Kinderanästhesiesymposium
 
 ### ~~gerda.anaesthesie.online~~
 
-> Gießens Elektronische Referenz Der Anästhesie (work in progress)
+> Gießener Elektronische Referenz Der Anästhesie (work in progress)
