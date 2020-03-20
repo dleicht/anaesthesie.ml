@@ -14,6 +14,6 @@
 
 > Gießener Luftrettungssymposium
 
-### [wiki.anaesthesie.online](https://ana-ukgi.de/)
+### [wiki.anaesthesie.online](https://wiki.anaesthesie.online)
 
 > Wiki der Klinik für Anästhesiologie
