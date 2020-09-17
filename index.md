@@ -1,6 +1,6 @@
-### [dienstboerse.anaesthesie.online](https://dienstboerse.anaesthesie.online)
+### ~~dienstboerse.anaesthesie.online~~
 
-> Tauschbörse für Klinikdienste aller Dienstgruppen
+> Tauschbörse für Klinikdienste aller Dienstgruppen (offline)
 
 ### ~~gerda.anaesthesie.online~~
 
